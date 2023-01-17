@@ -1,3 +1,5 @@
 Similarity caculation;   
 Seperate sentence;   
-...
+  
+In the sen_similarity_demo.ipynb file, i am using __text analysis__ to test how customers' comment on the products related to the score they rank the products, using the Amazon customer dataset.  
+
