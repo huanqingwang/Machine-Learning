@@ -1,4 +1,4 @@
 # Machine-Learning
 
   
-  Coming soon...
+Using machine learning algorithms in Psychology research  
